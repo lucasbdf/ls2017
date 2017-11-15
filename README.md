@@ -18,7 +18,7 @@
 | 12  | 0  |   |   |
 | 13  | 1  | https://github.com/lucasbdf/ls2017/wiki/Sonarcloud |   |
 | 14  | 1  | https://github.com/lucasbdf/ls2017/wiki/SoftVis3D |   |
-| 15  | 1  | https://github.com/joaopsalgado/ls2017/blob/master/README.md  |   |
+| 15  | 1  | https://github.com/lucasbdf/ls2017/blob/master/README.md  |   |
 | 16  | 1  |   |   |
 
 
