@@ -13,7 +13,7 @@
 | 7  | 1  | https://github.com/lucasbdf/ls2017/wiki/Atividade-Supervisionada-Aula-7:-06-09-2017  |   |
 | 8  | 1  | https://github.com/lucasbdf/ls2017/wiki/tecnologiasThoughtworks  |   |
 | 9  | 1  | https://github.com/lucasbdf/ls2017/wiki/Atividade-Supervisionada-Aula-9:-27-09-2017  |   |
-| 10  | 1  | https://github.com/joaopsalgado/ls2017/tree/master/javancss/target  |   |
+| 10  | 0  |   |   |
 | 11  | 0  |   |   |
 | 12  | 0  |   |   |
 | 13  | 1  | https://github.com/lucasbdf/ls2017/wiki/Sonarcloud |   |
