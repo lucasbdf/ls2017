@@ -5,7 +5,7 @@
 | Aula  | nota | link | comentário  |
 |:-:|:-:|---|:-:|
 | 1  | 1  | https://github.com/lucasbdf/ls2017  |   |
-| 2  | 0  |  |   |
+| 2  | 1  | https://github.com/lucasbdf/ls2017/blob/master/Lista_1.docx https://github.com/lucasbdf/ls2017/blob/master/Lista_2.docx |   |
 | 3  | 1  | https://github.com/lucasbdf/ls2017/wiki/Comandos   |   |
 | 4  | 1  | https://github.com/lucasbdf/ls2017/wiki/Enviroment  |   |
 | 5  | 1  | https://github.com/lucasbdf/ls2017/wiki/Atividade-Supervisionada-Aula-5:-30-08-2017  |   |
